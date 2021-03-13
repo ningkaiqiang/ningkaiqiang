@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ningkkkq
 - 🌱 I’m currently learning java
 - 📫 How to reach me ➡️ Twitter@ningkaiqiang
-- 👀 Check out my website ➡️ nkqnkq.ml
+- 👀 Check out my blog ➡️ nkqnkq.ml
 
 <!---
 ningkkkq/ningkkkq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
