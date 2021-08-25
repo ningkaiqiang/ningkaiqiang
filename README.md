@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ningkkkq
-- 🌱 i’m currently learning java
+- 👋 Hi, I’m @ningkaiqiang
+- 🌱 i’m working
 - 📫 see what i m doing ➡️ Twitter@ningkaiqiang
 - 👀 check out my pages ➡️ ningkkkq.github.io
 
