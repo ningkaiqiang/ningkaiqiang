@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ningkaiqiang
-- 🌱 i’m working
-- 📫 see what i m doing ➡️ Twitter@ningkaiqiang
-- 👀 check out my pages ➡️ ningkaiqiang.github.io
+- 👋 Hi
 
 <!---
 ningkkkq/ningkkkq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
